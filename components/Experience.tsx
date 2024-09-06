@@ -10,7 +10,7 @@ const Experience = () => {
         My <span className="text-purple">work experience</span>
       </h1>
 
-      <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
+      <div className="w-full mt-12  gap-10 flex justify-center items-center">
         {workExperience.map((card) => (
           <Button
             key={card.id}
@@ -18,12 +18,11 @@ const Experience = () => {
             duration={Math.floor(Math.random() * 10000) + 10000}
             borderRadius="1.75rem"
             style={{
-              //   add these two
-              //   you can generate the color from here https://cssgradient.io/
+              
               background: "rgb(4,7,29)",
               backgroundColor:
                 "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
-              // add this border radius to make it more rounded so that the moving border is more realistic
+              
               borderRadius: `calc(1.75rem* 0.96)`,
             }}
             // remove bg-white dark:bg-slate-900
