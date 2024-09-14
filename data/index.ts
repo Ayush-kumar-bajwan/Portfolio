@@ -155,6 +155,38 @@ export const navItems = [
       thumbnail: "/exp1.svg",
     },
   ];
+
+  export const codingProfiles = [
+    {
+      id: 1,
+      platform: "Codeforces",
+      description: "Pupil max(1243) rated, Participating and building problem-solving skills.",
+      logo: "/codeforces.png",
+      link: "https://codeforces.com/profile/Ayush_kumar_bajwan",
+    },
+    {
+      id: 2,
+      platform: "LeetCode",
+      description: "Solved over 250 coding challenges focused on data structures and algorithms.",
+      logo: "/leetcode.png",
+      link: "https://leetcode.com/u/ayush_kumar_bajwan/",
+    },
+    {
+      id: 3,
+      platform: "GeeksforGeeks",
+      description: "Practiced coding problems across various topics like sorting, dynamic programming, and more.",
+      logo: "/gfg.png",
+      link: "https://www.geeksforgeeks.org/user/27536ayush2021cse/",
+    },
+    {
+      id: 4,
+      platform: "Code360",
+      description: "Engaged with coding challenges to refine coding techniques.",
+      logo: "/code-360.png",
+      link: "https://www.naukri.com/code360/profile/cad5a93c-a2b4-494e-b88c-c5ba70d186e3",
+    },
+  ];
+  
   
   export const socialMedia = [
     {
