@@ -49,8 +49,8 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
-      description: "The Inside Scoop",
+      title: "Currently building a Browser Add on.",
+      description: "Under progress",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -146,6 +146,9 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
+      company:"CSRBOX - ibm skillsbuild program",
+      type:"virtual",
+      duration: "June 2024 - August 2024",
       title: "Frontend Engineer Intern",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
@@ -157,13 +160,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://github.com/Ayush-kumar-bajwan"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link: ""
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/ayush-kumar-bajwan-9ab277225/"
     },
   ];
