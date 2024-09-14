@@ -16,7 +16,7 @@ const RecentProjects = () => {
             className="lg:min-h-[32.5rem] sm:h-[41rem] h-[32rem] flex items-center justify-center sm:w-[570px] w-[80vw]"
           >
             {/* Card Container linking to Repo */}
-            <PinContainer title={title} href={link}>
+            <PinContainer title={title} href={liveLink}>
               <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] h-[30vh] sm:h-[40vh] mb-10 overflow-hidden">
                 {/* Background Image */}
                 <div>
