@@ -112,32 +112,32 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Ayush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ayush's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ayush is the ideal partner.",
+      name: "John Doe",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Ayush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ayush's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ayush is the ideal partner.",
+      name: "John Doe",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Ayush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ayush's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ayush is the ideal partner.",
+      name: "John Doe",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Ayush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ayush's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ayush is the ideal partner.",
+      name: "John Doe",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+        "Collaborating with Ayush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ayush's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ayush is the ideal partner.",
+      name: "John Doe",
       title: "Director of AlphaStream Technologies",
     },
   ];
@@ -149,7 +149,7 @@ export const navItems = [
       company:"CSRBOX - ibm skillsbuild program",
       type:"virtual",
       duration: "June 2024 - August 2024",
-      title: "Frontend Engineer Intern",
+      title: "Frontend Developer Intern",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
