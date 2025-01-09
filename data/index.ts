@@ -49,8 +49,8 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a Browser Add on.",
-      description: "Under progress",
+      title: "Built a Content generation platform using AI.",
+      description: "Recent build",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -72,6 +72,15 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Content AI-A  content generation app using AI",
+      des: "A real time content generation app built using NextJS, TypeScript and Generative AI.",
+      img: "/landing-page.png",
+      iconLists: ["/next.svg","/ts.svg", "/tail.svg", "/clerk.jpg", "/driz.png", "/images.jpg"],
+      link: "https://github.com/Ayush-kumar-bajwan/Ai-content-generator",
+      liveLink: "https://ai-content-generator-psi.vercel.app/",
+    },
+    {
+      id: 2,
       title: "QuickChat-A real time messaging app",
       des: "A real time messaging app seamless chating and user experience built using Websockets and MERN stack.",
       img: "/quickchat.png",
@@ -80,7 +89,7 @@ export const navItems = [
       liveLink: "https://quickchat-m178.onrender.com/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Home Educator - A platform for students and tutors",
       des: "Simplify the approach of finding the best tutor around your area also helps tutors to find work.",
       img: "/home-educator.png",
@@ -89,7 +98,7 @@ export const navItems = [
       liveLink: "https://home-educator.vercel.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Movies World - A movie finder and ticket booker app",
       des: "Here user can find his fav movies and know detailed descriptions, also can buy tickets",
       img: "/Movies-world.png",
@@ -98,7 +107,7 @@ export const navItems = [
       liveLink: "https://movies-world-delta.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Dice game - A simple game of luck",
       des: "Created a dice game using react and handle logic using state management",
       img: "/Dice-game.png",
