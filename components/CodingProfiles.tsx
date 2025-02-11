@@ -3,7 +3,7 @@ import { codingProfiles } from '@/data';
 
 const CodingProfiles = () => {
   return (
-    <div className="relative py-20">
+    <div className="relative py-20" id="codingprofiles">
       <h1 className="heading text-center text-3xl md:text-4xl font-bold">
         My <span className="text-purple">Coding Profiles</span>
       </h1>

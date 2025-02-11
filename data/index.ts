@@ -3,6 +3,7 @@ export const navItems = [
     { name: "Projects", link: "#projects" },
     { name: "Testimonials", link: "#testimonials" },
     { name: "Contact", link: "#contact" },
+    {name : "Coding profiles", link: "#codingprofiles"},
   ];
   
   export const gridItems = [
@@ -206,7 +207,7 @@ export const navItems = [
     {
       id: 2,
       img: "/twit.svg",
-      link: ""
+      link: "https://x.com/AyushBajwan"
     },
     {
       id: 3,
