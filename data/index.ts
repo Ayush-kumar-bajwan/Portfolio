@@ -73,6 +73,15 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Womania-A social service platform for women's health issues",
+      des: "A platform where womens can register for health consultancy provided by volunteers and an admin can handle events , beneficiaried and volunteers.",
+      img: "/womania.png",
+      iconLists: ["/re.svg", "/tail.svg", "/gsap.jpg","/nodejs.svg", "/mongodb.svg"],
+      link: "https://github.com/Ayush-kumar-bajwan/suvidha-women-frontend",
+      liveLink: "https://womania-happy-health.web.app/",
+    },
+    {
+      id: 2,
       title: "Content AI-A  content generation app using AI",
       des: "A real time content generation app built using NextJS, TypeScript and Generative AI.",
       img: "/landing-page.png",
@@ -81,7 +90,7 @@ export const navItems = [
       liveLink: "https://ai-content-generator-psi.vercel.app/",
     },
     {
-      id: 2,
+      id: 3,
       title: "QuickChat-A real time messaging app",
       des: "A real time messaging app seamless chating and user experience built using Websockets and MERN stack.",
       img: "/quickchat.png",
@@ -90,7 +99,7 @@ export const navItems = [
       liveLink: "https://quickchat-m178.onrender.com/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Home Educator - A platform for students and tutors",
       des: "Simplify the approach of finding the best tutor around your area also helps tutors to find work.",
       img: "/home-educator.png",
@@ -99,7 +108,7 @@ export const navItems = [
       liveLink: "https://home-educator.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Movies World - A movie finder and ticket booker app",
       des: "Here user can find his fav movies and know detailed descriptions, also can buy tickets",
       img: "/Movies-world.png",
@@ -108,7 +117,7 @@ export const navItems = [
       liveLink: "https://movies-world-delta.vercel.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Dice game - A simple game of luck",
       des: "Created a dice game using react and handle logic using state management",
       img: "/Dice-game.png",
@@ -156,6 +165,16 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
+      company:"Suvidha Foundation",
+      type:"virtual",
+      duration: "January 2025 - february 2025",
+      title: "Web Developer Intern",
+      desc: "Led the development of Womania - a web-based platform using MERN stack for social services.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 2,
       company:"CSRBOX - ibm skillsbuild program",
       type:"virtual",
       duration: "June 2024 - August 2024",
